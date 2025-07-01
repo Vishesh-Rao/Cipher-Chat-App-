@@ -36,8 +36,8 @@ Cipher Chat App is a secure, end-to-end encrypted personal chat application buil
 
 | Splash Screen                       | Authentication Choice                 |
 |-------------------------------------|---------------------------------------|
-| ![Splash](Screenshots/splash.png)   | ![Auth Choice](Screenshots/auth_choice.png) |
+| ![Splash](Screenshots/Splash.png)   | ![Auth Choice](Screenshots/Screen1.png) |
 
 | Sign In                             | Sign Up                               |
 |-------------------------------------|---------------------------------------|
-| ![Sign In](Screenshots/signin.png)  | ![Sign Up](Screenshots/signup.png)    |
+| ![Sign In](Screenshots/3.png)  | ![Sign Up](Screenshots/4.png)    |
