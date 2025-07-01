@@ -1,0 +1,15 @@
+# Android/Jetpack Compose ignores
+/.gradle
+/local.properties
+/.idea
+*.iml
+
+# Firebase
+**/google-services.json
+
+# Build outputs
+/app/build/
+/build/
+
+# Misc
+*.log
